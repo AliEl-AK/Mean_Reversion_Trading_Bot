@@ -1,8 +1,10 @@
-# Moving Average Trading Bot
+# Mean Reversion Trading Bot
 ## Introduction
-Welcome to the Moving Average Trading Bot! This trading bot is designed to analyze historical price data, implement a moving average strategy, and conduct backtesting to assess 
-the performance of the strategy under different settings. By utilizing the Bybit API for real-time data and MySQL server for data storage, this bot provides a flexible and comprehensive 
-tool for traders interested in moving average strategies.
+
+> "Reversion to the mean is the iron rule of the financial markets." - John C. Bogle
+
+Welcome to the Mean Reversion Trading Bot! This powerful tool meticulously analyzes historical price data, implements a mean reversion strategy, and conducts rigorous backtesting to evaluate performance under various configurations. Seamlessly integrating with the Bybit API for real-time data and employing a robust MySQL server for storage, our bot emerges as a versatile and comprehensive solution for traders dedicated to mastering the nuances of mean reversion strategies.
+
 
 ## Bot Overview
 ### Data Retrieval and Storage
