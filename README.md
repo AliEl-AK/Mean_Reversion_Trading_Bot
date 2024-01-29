@@ -1,4 +1,4 @@
-# Moving Average Trading Bot Readme
+# Moving Average Trading Bot
 ## Introduction
 Welcome to the Moving Average Trading Bot! This trading bot is designed to analyze historical price data, implement a moving average strategy, and conduct backtesting to assess 
 the performance of the strategy under different settings. By utilizing the Bybit API for real-time data and MySQL server for data storage, this bot provides a flexible and comprehensive 
