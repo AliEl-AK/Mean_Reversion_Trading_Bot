@@ -1,0 +1,10 @@
+{
+    "symbol": "BTCUSDT",
+    "interval": 15,
+    "timeframe": "15min",
+    "period": "21",
+    "indicatorName": "sma21",
+    "leverage": 10,
+    "stop_loss_percentage": 0.005,
+    "take_profit_percentage": 0.015
+}
